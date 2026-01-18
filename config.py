@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 OWNER_ID = int(getenv("OWNER_ID", 8432723762))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "oye_sparsh_baby")
-LOGGER_ID = int(getenv("LOGGER_ID", -1003564506289))
+LOGGER_ID = int(getenv("LOGGER_ID", none))
 
 # ===============================================
 
