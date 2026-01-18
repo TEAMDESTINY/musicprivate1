@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 OWNER_ID = int(getenv("OWNER_ID", 8432723762))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "oye_sparsh_baby")
-LOGGER_ID = int(getenv("LOGGER_ID", None))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003564506289))
 
 # ===============================================
 
@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TEAMDESTINY/musicprivate1")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = getenv("GIT_TOKEN", None)  
+GIT_TOKEN = getenv("GIT_TOKEN", )  
 
 # ===============================================
 
